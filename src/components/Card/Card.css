@@ -1,0 +1,44 @@
+.cardWrapper {
+  max-width: 274px;
+  border: 2px solid #4cd437;
+  border-radius: 12px;
+  cursor: pointer;
+}
+
+.imgWrapper {
+  height: 256px;
+  overflow: hidden;
+  margin-bottom: 12px;
+
+  & img {
+    height: 100%;
+    object-fit: cover;
+  }
+}
+
+.detailsWrapper {
+  padding: 8px;
+  padding-bottom: 16px;
+}
+
+.cardTitle {
+  margin-bottom: 10px;
+}
+
+.ratingWrapper {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.ratingStar {
+  color: #d5ab55;
+}
+
+.priceWrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.cardBag {
+  color: #535353;
+}

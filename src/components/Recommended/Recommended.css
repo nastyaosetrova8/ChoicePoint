@@ -1,0 +1,22 @@
+.recommendedWrapper {
+  display: flex;
+  justify-content: center;
+  align-items: start;
+  flex-direction: column;
+  gap: 14px;
+  margin-top: 32px;
+  margin-bottom: 32px;
+}
+
+.BtnCompaniesWrapper {
+  display: flex;
+  gap: 10px;
+}
+
+.btnsCompanies {
+  padding: 8px 18px;
+  background: transparent;
+  border: 1px solid #4cd437;
+  border-radius: 5px;
+  color: #323232;
+}
