@@ -8,7 +8,7 @@ const Sidebar = () => {
     <section className="sidebar">
       <h1 className="mainTitleHidden">Choice of shoes</h1>
       <div className="logoContainer">
-        <a href="#"></a>
+        <a href="#">LOGO</a>
       </div>
 
       <Category />
